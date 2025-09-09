@@ -6,7 +6,7 @@ Always eager to learn and tackle new challenges. Let’s build something great t
 ---
 
 ## 🔧 Skills
-- **Languages:** C++, C#, Java  
+- **Languages:** C++, C#, Java, Python, Go  
 - **Database:** MySQL  
 - **Technical:** Data Structures and Algorithms, Object-Oriented Programming (OOP)  
 
@@ -20,4 +20,7 @@ Always eager to learn and tackle new challenges. Let’s build something great t
 ---
 
 ## 📫 Let's Connect
+- [Facebook](https://www.facebook.com/ibrahim.hashem.mustafa/?locale=ar_AR)  
+- [LinkedIn](https://www.linkedin.com/in/ibrahimhashem/)  
+
 Feel free to explore my repositories, provide feedback, or reach out for collaboration and discussions!
