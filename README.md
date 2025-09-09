@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to Ibrahim Hashem's profile! 👋
 
-<!--
-**IbrahimHashem0/IbrahimHashem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ibrahim Hashem, a software engineering student with a passion for algorithms, data structures, and problem-solving.  
+Always eager to learn and tackle new challenges. Let’s build something great together! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** C++, C#, Java  
+- **Database:** MySQL  
+- **Technical:** Data Structures and Algorithms, Object-Oriented Programming (OOP)  
+
+---
+
+## 🌱 Learning & Interests
+- Currently diving deep into software testing methodologies and tools, focusing on building robust and reliable software.  
+- Exploring code optimization techniques to enhance performance and efficiency.  
+- Passionate about problem-solving and eager to learn new technologies that push the boundaries of software development.  
+
+---
+
+## 📫 Let's Connect
+Feel free to explore my repositories, provide feedback, or reach out for collaboration and discussions!
