@@ -7,7 +7,7 @@ Always eager to learn and tackle new challenges. Let’s build something great t
 
 ## 🔧 Skills
 - **Languages:** C++, C#, Java, Python, Go  
-- **Database:** MySQL  
+- **Database:** MySQL, SQL Server, SQLite
 - **Technical:** Data Structures and Algorithms, Object-Oriented Programming (OOP)  
 
 ---
